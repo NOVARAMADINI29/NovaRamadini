@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<presentation availableOffline="1" guid="595A1B28-A85D-4A57-BE9F-6993F4E72541" version="0">
+	<info>
+		<title>Latihan Soal IPA Kelas IV</title>
+		<description/>
+	</info>
+	<files index="id18" thumbnail="id14" totalSize="2682325">
+		<file id="id0">data/browsersupport.js</file>
+		<file id="id1">data/fonts/fnt0.woff</file>
+		<file id="id2">data/fonts/fnt1.woff</file>
+		<file id="id3">data/fonts/fnt2.woff</file>
+		<file id="id4">data/html5-unsupported.html</file>
+		<file id="id5">data/html5.png</file>
+		<file id="id6">data/images/img-1de9-b72a-466a-bba8.jpg</file>
+		<file id="id7">data/images/img-5058-7512-e37d-87ac.gif</file>
+		<file id="id8">data/images/img-9afb-d353-cb7a-804b.jpg</file>
+		<file id="id9">data/images/img-a922-8195-0ad6-6ecc.jpg</file>
+		<file id="id10">data/images/img-f663-cc28-250a-4fd8.jpg</file>
+		<file id="id11">data/images/img-faac-1ffa-785c-0895.jpg</file>
+		<file id="id12">data/ismplayer/app_store2x.png</file>
+		<file id="id13">data/ismplayer/play.svg</file>
+		<file id="id14">data/ismplayer/preview.png</file>
+		<file id="id15">data/ismplayer/style.css</file>
+		<file id="id16">data/ismplayer/style_mini.css</file>
+		<file id="id17">data/player.js</file>
+		<file id="id18">index.html</file>
+		<file id="id19">ismplayer.html</file>
+		<file id="id20">preview.png</file>
+	</files>
+</presentation>
+
